@@ -32,5 +32,39 @@
       "ingredients": "Chicken breast fillet - 450 g,Vegetable oil - 3 tbsp.,Broccoli Cabbage - 300 g,Sweet pepper yellow - 200 g,Red bell pepper - 150 g,Champignons - 250 g,Soy Sauce - 80 ml,Chicken broth - 80 ml,Garlic - 20 g,Ginger - 20 g,Rice vinegar - 1 tablespoon,Sesame oil - 1 tbsp.,Corn starch - 2 tbsp.,Honey - 80 ml,Salt - ? tsp,Ground black pepper - ? tsp,Red chilli ? tsp,Chives - 10 g,Sesame seeds - 1 tsp",
       "youtube": "https://youtu.be/ITQ7lNE8EAs"
     }
+  ],
+  "nutritionn": [
+    {
+      "id": 1,
+      "title": "Canned food",
+      "image": "http://st.depositphotos.com/1044737/1248/i/450/depositphotos_12484443-stock-photo-vegetables-in-cans.jpg",
+      "instruction": "All meat preservation, sausages and sausages when carrying a child is prohibited. The fact is that during conservation, chemicals are used that are harmful to the mother and the fetus - these are various dyes, monosodium glutamate and others. In addition, in many industries soya substitute or low-quality meat products (trimmings, skin, and so on) are used instead of meat. Also, sausage products can become a source of infection with listeriosis - an infection that affects nerve tissue and can cause a miscarriage.An excess of seasonings in such food not only damages the stomach, but also causes heartburn, which already persecutes pregnant women for almost the entire period.",
+      "ingredients": "",
+      "youtube": "https://youtu.be/3mxhXmkPtrA"
+    },
+    {
+      "id": 2,
+      "title": "Fast food",
+      "image": "https://aussiedlerbote.de/wp-content/uploads/2018/03/shutterstock_288575585.jpg",
+      "instruction": "'Fast food' categorically can not be used by pregnant women for about the same reason as preservation: it contains many chemicals, low-grade products and soya meat substitutes. When fast food is used on an ongoing basis, the risk of developing obesity and atherosclerosis is high as a result of an increase in the blood of harmful fractions of cholesterol deposited on the inner lining of blood vessels in the form of plaques.Disruption of the cardiovascular system as a result of increased cholesterol significantly worsens the health of the expectant mother and child. Excess calorie intake of the expectant mother can cause the child both overweight and diabetes.",
+      "ingredients": "",
+      "youtube": "https://youtu.be/xyAZhsdcaek"
+    },
+    {
+      "id": 3,
+      "title": "Alcohol",
+      "image": "https://club.season.ru/uploads/post/50879/659/post-50879-1509988659.jpg",
+      "instruction": "The insidiousness of alcohol during pregnancy is widely known, as is the unpredictability of its action. The influence of alcohol on the body of the unborn baby can occur immediately, even in the prenatal period, and can be detected after birth. It is the effect of alcohol on pregnancy, on its course and development of the infant, that becomes the cause of congenital disorders and diseases, as well as the lag of many physical processes. For example, the influence of alcohol can be expressed in: various psychological diseases; the presence of defects in the development of internal organs; problems with training, developmental lagging behind peers or complete mental retardation; defects of the musculoskeletal system and poor physical development; weaknesses of the immune system; pathologies of the development of the respiratory, nervous, cardiovascular systems; predisposition to alcoholism of a congenital nature. It is necessary to think about the health of the future baby at the planning stage of pregnancy and clearly understand that pregnancy and alcohol in the early stages, as well as throughout the period of gestation, are simply incompatible.",
+      "ingredients": "",
+      "youtube": "https://youtu.be/3zkWzs-RkU0"
+    },
+    {
+      "id": 4,
+      "title": "Sweet industrial workmanship",
+      "image": "https://go4.imgsmail.ru/imgpreview?key=50aaab64d48fde75&mb=imgdb_preview_163",
+      "instruction": "Excess sugar is harmful to everyone, regardless of age and condition, but the danger of sugar during pregnancy is that the harm is caused not only to the mother's body, but also to the fetus: this is the risk of diabetes, and violation of the formation of teeth, and possible allergic reactions in the baby after birth . In addition, there are also a lot of harmful chemistry in store sweets: emulsifiers, dyes, stabilizers, and more.If sweets contain not ordinary sugar, but its substitute, then they are even more dangerous: for example, aspartame can cause sleep disturbances, digestion and depression.",
+      "ingredients": "",
+      "youtube": "https://youtu.be/TNspLEjrQ00"
+    }
   ]
 }
